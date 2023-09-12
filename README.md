@@ -10,9 +10,9 @@ npm: 9.6.7
 
 steps to follow-
 
-cd payroll_frontent
-npm i
-npm start
+1) cd payroll_frontent
+2) npm i
+3) npm start
 
 -------------Backend------------------
 
