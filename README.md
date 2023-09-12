@@ -22,20 +22,19 @@ python: 3.7
 
 steps to follow (windows)-
 
-python -m venv myenv
-myenv\Scripts\activate
-cd payroll_frontent
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+1) python -m venv myenv
+2) myenv\Scripts\activate
+3) cd payroll_frontent
+4) pip install -r requirements.txt
+5) python manage.py makemigrations
+6) python manage.py migrate
+7) python manage.py runserver
 
 steps to follow (linex/mac)-
 
-python -m venv myenv
-myenv\bin\activate
-cd payroll_frontent
-pip install -r requirements.txt
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+1) python -m venv myenv
+2) myenv\bin\activate
+3) pip install -r requirements.txt
+4) python manage.py makemigrations
+5) python manage.py migrate
+6) python manage.py runserver
