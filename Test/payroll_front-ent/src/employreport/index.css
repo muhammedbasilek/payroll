@@ -1,0 +1,12 @@
+.employee-report {
+    display: flex;
+    flex-direction: column;
+}
+.submit{
+    background-color:red
+}
+.container {
+    flex-direction: row;
+    display:flex;
+    background-color: dimgrey;
+}
